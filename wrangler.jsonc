@@ -1,0 +1,5 @@
+{
+  "name": "your-worker-name", // 将 "your-worker-name" 替换为你的 Worker 名称
+  "compatibility_date": "2025-06-04", // 使用日志中显示的日期
+  "main": "_worker.js"
+}
